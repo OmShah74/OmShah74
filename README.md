@@ -1,9 +1,7 @@
-## Hi there 👋
-
-<!--# 💻 [Your Name]
+# 💻 [Om Shah]
 
 ## 🚀 About Me
-Hello! I'm [Your Name], a passionate developer with experience in multiple programming languages, frameworks, and tools. I love working on challenging projects, learning new technologies, and contributing to the tech community.
+Hello! I'm [Om Shah], a passionate developer with experience in multiple programming languages, frameworks, and tools. I love working on challenging projects, learning new technologies, and contributing to the tech community.
 
 ---
 
@@ -63,17 +61,3 @@ Hello! I'm [Your Name], a passionate developer with experience in multiple progr
 
 Feel free to explore my repositories and reach out for collaboration! 🚀
 
-
-**OmShah74/OmShah74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
