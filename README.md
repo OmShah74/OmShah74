@@ -1,4 +1,4 @@
-# 💻 [Om Shah]
+# 💻 Om Shah
 
 ## 🚀 About Me
 Hello! I'm Om Shah, a passionate developer with experience in multiple programming languages, frameworks, and tools. I love working on challenging projects, learning new technologies, and contributing to the tech community.
@@ -43,10 +43,7 @@ Hello! I'm Om Shah, a passionate developer with experience in multiple programmi
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
 
 ### 🔧 Tools & Platforms
-- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) 
-- ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
-- ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white) 
+- ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) - ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white) 
 
 ### 🖥️ Operating Systems
 - ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
@@ -57,7 +54,7 @@ Hello! I'm Om Shah, a passionate developer with experience in multiple programmi
 ## 📫 Contact Me
 - GitHub: [Your GitHub Profile](https://github.com/yourgithub)
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourlinkedin)
-- Email: your.email@example.com
+- Email: omamitshah@gmail.com
 
 Feel free to explore my repositories and reach out for collaboration! 🚀
 
