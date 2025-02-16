@@ -32,22 +32,12 @@ Hello! I'm Om Shah, a passionate developer with experience in multiple programmi
 - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
 - ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) 
 
-### 🏗️ Frameworks & Libraries
-- ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) 
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) 
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 
 ### 🎮 Game Development
 - ![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white) 
 
 ### 🔧 Tools & Platforms
 - ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) - ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) - ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white) 
-
-### 🖥️ Operating Systems
-- ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
 ---
 
@@ -57,4 +47,3 @@ Hello! I'm Om Shah, a passionate developer with experience in multiple programmi
 - Email: omamitshah@gmail.com
 
 Feel free to explore my repositories and reach out for collaboration! 🚀
-
