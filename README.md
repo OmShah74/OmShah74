@@ -3,7 +3,7 @@
 🔥 **About Me:**  
 💡 Passionate about building intelligent systems, computer vision apps, and scalable software.  
 🚀 Exploring the latest in AI, Machine Learning, and Full-Stack Development.  
-🔍 Love working on Reinforcement Learning, NLP-to-SQL, and Computer Vision projects.  
+🔍 Love working on Reinforcement Learning, NLP, and Computer Vision projects.  
 🛠️ Constantly experimenting with modern frameworks, distributed systems, and cloud technologies.  
 🎯 Striving to bridge the gap between innovation, usability, and performance.  
 📈 Worked on diverse projects ranging from Neural Machine Translation (Seq2Seq + Attention) to Real-time Computer Vision Systems.  
@@ -17,7 +17,7 @@
 
 ---
 
-💻 **Tech Stack (from Resume):**  
+💻 **Tech Stack:**  
 `C++` `Java` `Python` `HTML` `CSS` `JavaScript`  
 `MySQL` `MongoDB`  
 `ReactJS` `Node.js` `Flask`  
