@@ -57,4 +57,4 @@
 
 ## 🏆 GitHub Trophies  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=OmShah74&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=OmShah74&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)  
