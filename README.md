@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Om Shah!  
 
-🔥 **About Me**  
+
 💡 Passionate about building intelligent systems, computer vision apps, and scalable software.  
 🚀 Exploring the latest in AI, Machine Learning, and Full-Stack Development.  
 🔍 Enjoy working on Reinforcement Learning, NLP, and Computer Vision projects.  
