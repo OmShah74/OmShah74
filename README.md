@@ -13,17 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-<div style="text-align: center;">
-  <a href="https://gitroll.io/profile/uOEsraJbIdwcSYtR2h3Ckvh8Xe413" target="_blank">
-    <img 
-      src="https://gitroll.io/api/badges/profiles/v1/uOEsraJbIdwcSYtR2h3Ckvh8Xe413?theme=tokyoNight"
-      alt="GitRoll Profile Badge"
-      style="width: 400px; height: 200px;"
-    />
-  </a>
-</div>
-
-
 
 </div>
 
@@ -215,7 +204,15 @@ Leadership:
   - Class Representative - BTech Computer Engineering
   - Computer Tutor - Underprivileged Children Education
 ```
-
+<div style="text-align: center;">
+  <a href="https://gitroll.io/profile/uOEsraJbIdwcSYtR2h3Ckvh8Xe413" target="_blank">
+    <img 
+      src="https://gitroll.io/api/badges/profiles/v1/uOEsraJbIdwcSYtR2h3Ckvh8Xe413?theme=tokyoNight"
+      alt="GitRoll Profile Badge"
+      style="width: 380px; height: 200px;"
+    />
+  </a>
+</div>
 ---
 
 ## 📫 Let's Connect!
