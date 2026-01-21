@@ -183,27 +183,6 @@ I specialize in developing production-ready AI systems, from **transformer-based
 
 </div>
 
----
-
-## 🏆 Certifications & Achievements
-
-```yaml
-Academic:
-  - CGPA: 3.96/4.0 (MPSTME, NMIMS University)
-  - 12th Grade: 97% (CBSE)
-  
-Professional Certifications:
-  - Quantum Machine Learning (IIT-Madras, 2025)
-  - Deep Learning Specialization (DeepLearning.AI, 2024)
-  - AWS Academy Cloud Foundations (2024)
-  - Google Data Analytics Professional Certificate (2024)
-  - Honours Program (Coursera, 2022-2026)
-
-Leadership:
-  - Technical Executive - MPSTME ACM Student Chapter
-  - Class Representative - BTech Computer Engineering
-  - Computer Tutor - Underprivileged Children Education
-```
 
 ---
 
