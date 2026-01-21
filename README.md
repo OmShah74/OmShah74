@@ -35,7 +35,8 @@ class AIEngineer:
             "Agentic AI Systems",
             "Multi-Modal RAG Pipelines", 
             "LLM Fine-Tuning & Knowledge Distillation",
-            "Deep Reinforcement Learning"
+            "Deep Reinforcement Learning",
+            "Full Stack Integration"
         ]
         
     def say_hi(self):
@@ -45,14 +46,12 @@ me = AIEngineer()
 me.say_hi()
 ```
 
-I specialize in developing production-ready AI systems, from **transformer-based neural machine translation** to **multi-modal RAG pipelines** and **reinforcement learning for quantitative finance**. My work bridges cutting-edge research with practical, scalable implementations.
-
-**Key Projects:** Agflow (Visual AI Agent Orchestration), VidRAG (Multi-Modal Video Analysis), StudHelp (Multi-Document RAG Assistant), Knowledge Distillation Framework, Dynamic Asset Allocation RL, Neural Machine Translation System, CVPR Research RAG, LexiBase (NL2SQL), Fingerprint Recognition System, Football Analytics
+I specialize in developing AI systems, from **transformer-based neural machine translation** to **multi-modal RAG pipelines** and **reinforcement learning for quantitative finance**. My work bridges cutting-edge research with practical, scalable implementations.
 
 ---
 
 ## 🎯 Core Expertise
-
+<div align="center>
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -81,7 +80,7 @@ I specialize in developing production-ready AI systems, from **transformer-based
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🛠️ Tech Arsenal
