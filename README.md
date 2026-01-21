@@ -190,7 +190,7 @@ I specialize in developing AI systems, from **transformer-based neural machine t
     <img 
       src="https://gitroll.io/api/badges/profiles/v1/uOEsraJbIdwcSYtR2h3Ckvh8Xe413?theme=tokyoNight"
       alt="GitRoll Profile Badge"
-      style="width: 400px; height: 200px;"
+      style="width: 400px; height: 240px;"
     />
   </a>
 </div>
