@@ -185,7 +185,7 @@ I specialize in developing AI systems, from **transformer-based neural machine t
 
 ---
 
-<div style="text-align: center;">
+<div align="center">
   <a href="https://gitroll.io/profile/uOEsraJbIdwcSYtR2h3Ckvh8Xe413" target="_blank">
     <img 
       src="https://gitroll.io/api/badges/profiles/v1/uOEsraJbIdwcSYtR2h3Ckvh8Xe413?theme=tokyoNight"
