@@ -206,8 +206,6 @@ I specialize in developing AI systems, from **transformer-based neural machine t
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-### 💡 *"Building the future of AI, one intelligent system at a time"*
-
 **Open to collaborations in AI Research • Agentic Systems • Production ML Infrastructure**
 
 <img src="https://komarev.com/ghpvc/?username=OmShah74&label=Profile%20Views&color=F85D7F&style=for-the-badge" alt="Profile Views"/>
