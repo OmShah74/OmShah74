@@ -51,8 +51,8 @@ I specialize in developing AI systems, from **transformer-based neural machine t
 ---
 
 ## 🎯 Core Expertise
-<div align="center>
-<table>
+
+<table align="center">
 <tr>
 <td width="50%" valign="top">
 
@@ -80,7 +80,7 @@ I specialize in developing AI systems, from **transformer-based neural machine t
 </td>
 </tr>
 </table>
-</div>
+
 ---
 
 ## 🛠️ Tech Arsenal
