@@ -212,10 +212,4 @@ I specialize in developing AI systems, from **transformer-based neural machine t
 
 </div>
 
----
 
-<div align="center">
-  
-**⭐ From [OmShah74](https://github.com/OmShah74) | Built with 💙 and ☕**
-
-</div>
